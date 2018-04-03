@@ -1,4 +1,16 @@
-# Proyecto Sprint #2 | Track UX _Laboratoria_
+# Save The Children
+
+Optimizar la conversión de visitantes a donadores, mediante landing page www.apoyo.savethechildren.mx
+
+![](assets/Landing-Page.png)
+
+## Desarrollado para [Save The Children](www.apoyo.savethechildren.mx)
+
+
+
+
+
+## Proyecto Sprint #2 | Track UX _Laboratoria_
 
 ## Reto
 
@@ -216,6 +228,4 @@ Va directo a Save the Children, estaba predispuesta por el título del formulari
 
 ![](assets/sketches-save.png)
 
-## Langing Final
 
-![](assets/Landing-Page.png)
