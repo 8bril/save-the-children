@@ -2,7 +2,7 @@
 
 Optimizar la conversión de visitantes a donadores, mediante landing page www.apoyo.savethechildren.mx
 
-![](assets/Landing-Page.png)
+![landing-page](https://user-images.githubusercontent.com/31233225/38232290-fe5a1004-36db-11e8-9005-ae13bc8f738b.png)
 
 ## Desarrollado para [Save The Children](www.apoyo.savethechildren.mx)
 
