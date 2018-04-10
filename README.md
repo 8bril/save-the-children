@@ -136,9 +136,23 @@ Optimizar la arquitectura de información de la plataforma web de Save the Child
 
 ![](assets/cuadro-cami-ros.PNG)
 
-## Encuesta
+## Empathy Map
 
-## Journey Testeo moderado
+![empathy-map-canvas](https://user-images.githubusercontent.com/31233225/38571646-aea0416a-3cb6-11e8-84fe-2d058882092e.png)
+
+## User persona
+
+![user_persona_savethechildren](https://user-images.githubusercontent.com/31233225/38571643-ae365cdc-3cb6-11e8-927c-300a95f71842.png)
+
+## Diagrama de Usuario
+
+![diagrama_de_usuario_-_pagina_1__ 2](https://user-images.githubusercontent.com/31233225/38571645-ae6769a8-3cb6-11e8-9076-3a1e70b974d7.png)
+
+# Journey Map
+
+![img_20180312_183409585](https://user-images.githubusercontent.com/31233225/38571644-ae4be41c-3cb6-11e8-8169-9c574dfe487f.jpg)
+
+## Encuesta
 
 ### Usuario 1: Mirna Tello
 
@@ -227,5 +241,9 @@ Va directo a Save the Children, estaba predispuesta por el título del formulari
 ## Sketches
 
 ![](assets/sketches-save.png)
+
+![sketch-abril](https://user-images.githubusercontent.com/31233225/38571641-ae1cc7c2-3cb6-11e8-8bca-f9cb499255d4.jpeg)
+
+
 
 
